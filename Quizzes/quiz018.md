@@ -19,4 +19,5 @@ def get_truth() -> str:
 ![Quiz018](https://github.com/AntGra25/unit2-CS24/assets/142757981/a4bc3c4c-db77-4f01-a7ed-677d81e0b822)
 
 ## 3. Truth Table and Circuit
-![Quiz018C](https://github.com/AntGra25/unit2-CS24/assets/142757981/c7b14009-353e-468e-b220-c013af5b0c8d)
+![Quiz018C](https://github.com/AntGra25/unit2-CS24/assets/142757981/694d1802-ffcf-431d-af59-2428fff6a114)
+
