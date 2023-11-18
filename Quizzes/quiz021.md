@@ -28,3 +28,4 @@ plt.show()
 ![Quiz021](https://github.com/AntGra25/unit2-CS24/assets/142757981/c733413d-9536-47f4-ad9f-2c2241955b8a)
 
 ## 3. Truth Table
+![Quiz021C](https://github.com/AntGra25/unit2-CS24/assets/142757981/c3e3ae2f-0c78-48e5-84c0-ac7e02068bdf)
