@@ -23,4 +23,5 @@ print(get_truth2())
 ![Quiz019](https://github.com/AntGra25/unit2-CS24/assets/142757981/4a9c375b-0d81-45b5-9877-367ff6cae121)
 
 ## 3. Truth Table and Circuit
-![Quiz019C](https://github.com/AntGra25/unit2-CS24/assets/142757981/0c9d3676-1077-4749-8893-3123aaeb0530)
+![Quiz019C](https://github.com/AntGra25/unit2-CS24/assets/142757981/af39df34-56be-49cb-a85d-eb2f9ca503c3)
+
