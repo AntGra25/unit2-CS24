@@ -24,3 +24,6 @@ plt.show()
 ```
 ## 2. Proof of Work
 ![Quiz022](https://github.com/AntGra25/unit2-CS24/assets/142757981/24e9f3e7-2ba1-4a43-8270-2efabfeaa6d6)
+
+## 3. Circuit
+![Quiz022C](https://github.com/AntGra25/unit2-CS24/assets/142757981/d107f7db-c746-4eb7-b25c-72b107474e84)
