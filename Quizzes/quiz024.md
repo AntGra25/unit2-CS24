@@ -36,4 +36,6 @@ plt.show()
 ## 2. Proof of Work
 ![Quiz024](https://github.com/AntGra25/unit2-CS24/assets/142757981/c3b53211-2ce5-4075-87f3-b3e260bb1fd6)
 
+## 3. Convert to RGB
+![Quiz024C](https://github.com/AntGra25/unit2-CS24/assets/142757981/0778d784-eba6-4298-9bd9-42b29efe771d)
 
