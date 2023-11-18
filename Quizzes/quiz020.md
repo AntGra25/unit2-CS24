@@ -16,3 +16,5 @@ def produce(n:int, m:int, s:int) -> str:
 ## 2. Proof of Work
 ![Quiz020](https://github.com/AntGra25/unit2-CS24/assets/142757981/e8f51c02-302e-43e6-98aa-9c5717a3323f)
 
+## 3. Proof
+![Quiz020C](https://github.com/AntGra25/unit2-CS24/assets/142757981/20c317a5-6141-4e57-a97d-b7932aa286e1)
