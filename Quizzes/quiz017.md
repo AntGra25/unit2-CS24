@@ -16,3 +16,4 @@ def get_l3tt3r(msg: str) -> str:
 ![Quiz017](https://github.com/AntGra25/unit2-CS24/assets/142757981/210fd135-2140-4a78-8f7f-102c26f433d5)
 
 ## 3. Boolean Circuit
+![Quiz017C](https://github.com/AntGra25/unit2-CS24/assets/142757981/9d564842-9e7e-4557-842c-9a66f9525a13)
