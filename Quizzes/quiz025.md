@@ -4,4 +4,4 @@
 
 ## 2. Proof of Work
 
-## 3. 
+## 3. RGB to Hex Color
