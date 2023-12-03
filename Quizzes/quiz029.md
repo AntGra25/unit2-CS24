@@ -23,5 +23,6 @@ def sort_dict(in_dict: dict) -> dict:
     return out_dict
 ```
 ## 2. Proof of Work
+![Quiz029](https://github.com/AntGra25/unit2-CS24/assets/142757981/3e7da7dd-1201-4aa7-88ca-adb094e6f41c)
 
 ## 3. 
