@@ -9,5 +9,6 @@ def count_letters(my_dict: dict, msg: str) -> dict:
     return my_dict
 ```
 ## 2. Proof of Work
+![Quiz027](https://github.com/AntGra25/unit2-CS24/assets/142757981/16e30754-57a7-41f0-81d0-b4b503daef3a)
 
 ## 3. 
