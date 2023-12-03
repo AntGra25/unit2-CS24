@@ -16,5 +16,6 @@ plt.title(data['title'])
 plt.show()
 ```
 ## 2. Proof of Work
+![Quiz026](https://github.com/AntGra25/unit2-CS24/assets/142757981/b3568b77-59a9-4ec5-a9d2-73d79e2e0cdb)
 
 ## 3. 
