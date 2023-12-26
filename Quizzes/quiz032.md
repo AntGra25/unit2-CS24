@@ -37,5 +37,6 @@ plt.xlim([0, 800])
 plt.show()
 ```
 ## 2. Proof of Work
+![Quiz032](https://github.com/AntGra25/unit2-CS24/assets/142757981/0359939a-3dde-49bd-8517-b7c3de900ce5)
 
 ## 3. 
