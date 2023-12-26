@@ -38,5 +38,7 @@ plt.subplots_adjust(hspace=0.5)
 plt.show()
 ```
 ## 2. Proof of Work
+![Quiz031 1](https://github.com/AntGra25/unit2-CS24/assets/142757981/1b6c9539-fc3e-43ac-b26b-0cfbf9137be1)
+![Quiz031 2](https://github.com/AntGra25/unit2-CS24/assets/142757981/42185474-2df4-46c5-ad99-a61678d23396)
 
 ## 3. 
