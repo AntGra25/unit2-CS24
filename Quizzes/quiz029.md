@@ -25,7 +25,7 @@ def sort_dict(in_dict: dict) -> dict:
 ## 2. Proof of Work
 ![Quiz029](https://github.com/AntGra25/unit2-CS24/assets/142757981/3e7da7dd-1201-4aa7-88ca-adb094e6f41c)
 
-## 3. Graph of y = sin(2*pi*x) for 0 < x < 1
+## 3. Graph of y = sin(2 * pi * x) for 0 < x < 1
 
 ```.py
 from matplotlib import pyplot as plt
