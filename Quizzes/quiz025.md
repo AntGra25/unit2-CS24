@@ -30,5 +30,8 @@ plt.show()
 
 ```
 ## 2. Proof of Work
+![Quiz025](https://github.com/AntGra25/unit2-CS24/assets/142757981/013d84e3-abbc-492a-96cd-372e7ec8cb5a)
+
 
 ## 3. RGB to Hex Color
+![Quiz025C](https://github.com/AntGra25/unit2-CS24/assets/142757981/bfa738ff-a334-48ab-ae83-ad75b4dd96d2)
