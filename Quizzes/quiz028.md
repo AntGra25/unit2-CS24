@@ -15,4 +15,7 @@ def invert(in_dict: dict):
 ## 2. Proof of Work
 ![Quiz028](https://github.com/AntGra25/unit2-CS24/assets/142757981/96dbea00-bc7e-40d1-8faa-014e19a7414e)
 
-## 3. 
+
+## 3. Binary 1011 + 1101
+![Quiz028C](https://github.com/AntGra25/unit2-CS24/assets/142757981/3ffa7939-daac-4975-84d3-e02005e0dbe9)
+
