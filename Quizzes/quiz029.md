@@ -25,4 +25,23 @@ def sort_dict(in_dict: dict) -> dict:
 ## 2. Proof of Work
 ![Quiz029](https://github.com/AntGra25/unit2-CS24/assets/142757981/3e7da7dd-1201-4aa7-88ca-adb094e6f41c)
 
-## 3. 
+## 3. Graph of y = sin(2*pi*x) for 0 < x < 1
+
+```.py
+from matplotlib import pyplot as plt
+import math
+
+x = []
+y = []
+
+for i in range(101):
+    num = i/100
+    x.append(num)
+    y.append(math.sin(math.pi * 2 * num))
+
+plt.style.use('ggplot')
+plt.plot(x, y)
+plt.show()
+```
+
+![Quiz029 1](https://github.com/AntGra25/unit2-CS24/assets/142757981/644f9ebe-677e-415a-949a-bdab5c8636e5)
