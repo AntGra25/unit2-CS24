@@ -18,4 +18,6 @@ plt.show()
 ## 2. Proof of Work
 ![Quiz026](https://github.com/AntGra25/unit2-CS24/assets/142757981/b3568b77-59a9-4ec5-a9d2-73d79e2e0cdb)
 
-## 3. 
+
+## 3. RGB to Hex Color
+![Quiz026C](https://github.com/AntGra25/unit2-CS24/assets/142757981/5b2629f0-9627-46a1-9564-e93373837348)
